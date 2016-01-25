@@ -1,25 +1,25 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Ingrijire batrani UK | Joburi de la 400£ pe saptamana fara comision. 
+description: "Recrutam persoane pentru locuri de munca in industria ingrijirii batranilor in Marea Britanie. Fara comision!"
+baseurl:  # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+logo_url: img/logo.jpg
 
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: DentistSmile
-    hero_description: A responsive Jekyll theme for dental clinics.
+    hero_title: Ingrijire batrani UK 
+    hero_description: Joburi de la 400£ pe saptamana FARA COMISION
 
 # Contact form
-api_token: # Enter API token here
+api_token: 3cac6c542f9505efdf4552fd1330b683
 
 # Contact info
 contact:
-    phone: 932 50 540
-    emergency: 931 53 234
-    email: contact@yoursite.com
-    address: Von schroeders 273, <br> Viña del mar - Chile
+    name: Liliana Alexandru
+    phone: +44 7817 441126
+    email: caregiveruk@gmail.com
+    address: 29 Parnell Avenue, Lichfield, Staffordshire, WS13 6NX, United Kingdom
 
 # Opening hours
 monday_friday: 9:00 – 18:00
@@ -37,15 +37,14 @@ map:
     address_details: svg/min/logo.svg
 
 # Social settings
-facebook: http://facebook.com
-twitter: http://twitter.com
-instagram: http://instagram.com
-youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+email: mailto:caregiveruk@gmail.com
+whatsapp: whatsapp://send?text=Hello
+facebook: http://facebook.com/caregiver.ro
+skype: skype:caregiver.ro?userinfo
 feed: yes
 
 # Footer
-copyright: © 2015 DentistSmile - All rights reserved
+copyright: © 2015 CareGiver - All rights reserved
 
 # Build settings
 markdown: kramdown
@@ -61,5 +60,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics: UA-72814372-1
 google_verification:

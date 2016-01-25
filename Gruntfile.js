@@ -100,8 +100,10 @@ module.exports = function (grunt) {
     });
 
     require("load-grunt-tasks")(grunt);
+    
+    grunt.registerTask('svg', ['svgmin', 'svgstore']);
 
     // Define the tasks
-    grunt.registerTask('serve', ['shell:jekyllServe']);
-    grunt.registerTask('default', ['watch']);
+    //grunt.registerTask('serve', ['shell:jekyllServe']);
+    //grunt.registerTask('default', ['watch']);
 }
