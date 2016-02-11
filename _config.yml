@@ -10,6 +10,8 @@ hero:
     hero_img: hero.jpg
     hero_title: Ingrijire batrani Anglia 
     hero_description: Joburi de la 400£ pe saptamana FARA COMISION
+    hero_warning: Datorita nevoilor angajatorului candidatii femei au cele mai multe sanse de a fi acceptati.
+
 
 # Contact form
 api_token: 3cac6c542f9505efdf4552fd1330b683
